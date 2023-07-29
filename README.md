@@ -7,17 +7,16 @@ made for mom
 
 1. [Annotation/어노테이션](#1-annotation어노테이션)
 2. [Activity/창 전환 기능](#2-Activity창-전환-기능)
-3. [Spinner/스피너(콤보박스)](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-4. [에러 android.content.res.Resources$NotFoundException](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-5. [현재 시간 가져오기](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-6. [logcat/로그캣출력](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-7. [database(SQLite)/데이터베이스(SQLite)](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-8. [TextView Scrollbar/텍스트뷰 스크롤바](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-9. [Toast/토스트](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-10. [ListView/리스트뷰](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-11. [icon change/앱 아이콘 변경하기](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
-
-[내용](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
+3. [Spinner/스피너(콤보박스)](# 3. Spinner/스피너(콤보박스))
+4. [에러 android.content.res.Resources$NotFoundException](#4-에러-androidcontentresResources$NotFoundException)
+5. [현재 시간 가져오기](#5-현재-시간-가져오기)
+6. [logcat/로그캣출력](#6-logcat로그캣출력)
+7. [database(SQLite)/데이터베이스(SQLite)](#7-database(SQLite)데이터베이스(SQLite))
+8. [TextView Scrollbar/텍스트뷰 스크롤바](#8-TextView-Scrollbar텍스트뷰-스크롤바)
+9. [Toast/토스트](#9-Toast토스트)
+10. [ListView/리스트뷰](#10-ListView리스트뷰)
+11. [icon change/앱 아이콘 변경하기](#11-icon-change앱-아이콘-변경하기)
+12. [화면방향 가로,세로 고정하기](#12-화면방향-가로,세로-고정하기)
 
 ## 내용
 # 1. Annotation/어노테이션
@@ -65,7 +64,7 @@ made for mom
             });
             ```
             
-3. Spinner/스피너(콤보박스)
+# 3. Spinner/스피너(콤보박스)
     - 드롭다운 방식의 콤보박스
     - 항목 추가 & 사용 방법
         1. 메인 Activity에 spinner 컴포넌트 추가하기
@@ -122,10 +121,10 @@ made for mom
             
         6. 참고
             1. [https://playground.naragara.com/421](https://playground.naragara.com/421)
-4. 에러 android.content.res.Resources$NotFoundException
+# 4. 에러 android.content.res.Resources$NotFoundException
     - 이 에러는 LogCat에서 확인 가능
     - SetText컴포넌트에 int형을 넣은 경우
-5. 현재 시간 가져오기
+# 5. 현재 시간 가져오기
     
     ```java
     public static String getCurrentDate() {
@@ -140,7 +139,7 @@ made for mom
         textView1.setText(getCurrentDate());
         ```
         
-6. logcat/로그캣출력
+# 6. logcat/로그캣출력
     1. Log.i, Log.d 등등이 존재하지만 기능에 있어서 차이는 없음
     2. v → verbose
     d → debug
@@ -169,7 +168,7 @@ made for mom
     
     ![Untitled](image-readme/Untitled 2.png)
     
-7. database(SQLite)/데이터베이스(SQLite)
+# 7. database(SQLite)/데이터베이스(SQLite)
     - 세팅
         - TableInfo.java 파일 생성 후 아래 코드 복붙
             
@@ -279,7 +278,7 @@ made for mom
             - 위 코드는 date를 parameter로 받고 데이터베이스에서 date_column의 값이 String date와 같은 경우를 textView2에 출력함
     - 데이터 제거
         - 
-8. TextView Scrollbar/텍스트뷰 스크롤바
+# 8. TextView Scrollbar/텍스트뷰 스크롤바
     1. TextView xml에 아래 코드 복붙
         
         ```java
@@ -294,14 +293,14 @@ made for mom
         textView.setMovementMethod(new ScrollingMovementMethod());
         ```
         
-9. Toast/토스트
+# 9. Toast/토스트
     1. 버튼 실행 시 밑에 조그맣게 떴다가 사라지는 알림
         
         ```java
         Toast.makeText(getApplicationContext(),"약 종류를 선택하세요", Toast.LENGTH_LONG).show();
         ```
         
-10. ListView/리스트뷰
+# 10. ListView/리스트뷰
     1. 안드로이드 스튜디오의 리스트 박스
     2. 클릭 가능한 항목들이 나열된 상자 컴포넌트
     3. 데이터베이스에서 가져온 값 띄우기
@@ -353,10 +352,10 @@ made for mom
         content_listView1.setSelector(new PaintDrawable(0x75673AB7));
         ```
         
-11. icon change/앱 아이콘 변경하기
+# 11. icon change/앱 아이콘 변경하기
     1. 아래 링크 따라가기
     2. [https://codenet.tistory.com/29](https://codenet.tistory.com/29)
-12. 화면방향 가로,세로 고정하기
+# 12. 화면방향 가로,세로 고정하기
     1. mainfest.XML에 아래 코드 복붙
         
         ```java
