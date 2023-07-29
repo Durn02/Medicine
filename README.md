@@ -7,7 +7,7 @@ made for mom
 
 1. [Annotation/어노테이션](#1-annotation어노테이션)
 2. [Activity/창 전환 기능](#2-Activity창-전환-기능)
-3. [Spinner/스피너(콤보박스)](#3-Spinner스피너(콤보박스))
+3. [Spinner/스피너(콤보박스)](#3-spinner스피너콤보박스)
 4. [에러 android.content.res.Resources$NotFoundException](#4-에러-androidcontentresResources$NotFoundException)
 5. [현재 시간 가져오기](#5-현재-시간-가져오기)
 6. [logcat/로그캣출력](#6-logcat로그캣출력)
@@ -20,49 +20,49 @@ made for mom
 
 ## 내용
 # 1. Annotation/어노테이션
-    - @Override
-        - 내가 쓰고자 하는 메서드가 상위 클래스의 메서드를 Overriding한다는 의미
-    - @Nullable
-        - `import android.support.annotation.Nullable;`
-        - (이게 오류나면)
-        - `import androidx.annotation.Nullable;`
-        - 이 뒤에 오는 변수는 null일 수 있다는 의미
-        - null check를 하지 않으면 에러가 남
+- @Override
+    - 내가 쓰고자 하는 메서드가 상위 클래스의 메서드를 Overriding한다는 의미
+- @Nullable
+    - `import android.support.annotation.Nullable;`
+    - (이게 오류나면)
+    - `import androidx.annotation.Nullable;`
+    - 이 뒤에 오는 변수는 null일 수 있다는 의미
+    - null check를 하지 않으면 에러가 남
 # 2. Activity/창 전환 기능
-    - 1번(Activity)에서 2번(Avtivity)로의 전환
-        1. 2번 생성하기
-            - (아래 사진 참고)
-                
-                <MainActivity가 있는 곳에 sub Activity 추가>
-                
-                1. 우클릭
-                    
-                    ![Untitled](image-readme/Untitled.png)
-                    
-                2. 클릭
-                    
-                    ![Untitled](image-readme/Untitled 1.png)
-                    
-                3. 2번 Activity 이름 짓고 finish
-                4. app→manifests→AndroidManifest.xml에 <activity>가 제대로 추가되었는지 확인할 것
-        2. 1번에 버튼(btn1) 생성하기
-        3. 1번에 아래 코드 작성
+- 1번(Activity)에서 2번(Avtivity)로의 전환
+    1. 2번 생성하기
+        - (아래 사진 참고)
             
-            ```java
-            ※본인 코드에 맞춰서 수정하고 사용할 것
-            //버튼 선언
-            public Button btn1;
+            <MainActivity가 있는 곳에 sub Activity 추가>
             
-            //1번 Oncreate 안에 작성
-            btn1 = findViewById(R.id.button);
-            scene_change_Btn.setOnClickListener(new View.OnClickListener() {
-              @Override
-              public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), Status.class);
-                startActivity(intent);
-              }
-            });
-            ```
+            1. 우클릭
+                
+                ![Untitled](image-readme/Untitled.png)
+                
+            2. 클릭
+                
+                ![Untitled](image-readme/Untitled 1.png)
+                
+            3. 2번 Activity 이름 짓고 finish
+            4. app→manifests→AndroidManifest.xml에 <activity>가 제대로 추가되었는지 확인할 것
+    2. 1번에 버튼(btn1) 생성하기
+    3. 1번에 아래 코드 작성
+        
+        ```java
+        ※본인 코드에 맞춰서 수정하고 사용할 것
+        //버튼 선언
+        public Button btn1;
+        
+        //1번 Oncreate 안에 작성
+        btn1 = findViewById(R.id.button);
+        scene_change_Btn.setOnClickListener(new View.OnClickListener() {
+          @Override
+          public void onClick(View view) {
+            Intent intent = new Intent(getApplicationContext(), Status.class);
+            startActivity(intent);
+          }
+        });
+        ```
             
 # 3. Spinner/스피너(콤보박스)
     - 드롭다운 방식의 콤보박스
