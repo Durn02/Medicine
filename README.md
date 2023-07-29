@@ -19,8 +19,8 @@ made for mom
 
 [내용](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
 
-# 내용
-1. Annotation/어노테이션
+## 내용
+#1. Annotation/어노테이션
     - @Override
         - 내가 쓰고자 하는 메서드가 상위 클래스의 메서드를 Overriding한다는 의미
     - @Nullable
