@@ -6,17 +6,17 @@ made for mom
 ## 목차
 
 1. [Annotation/어노테이션](#1-annotation어노테이션)
-2. [Activity/창 전환 기능](#2-Activity창-전환-기능)
+2. [Activity/창 전환 기능](#2-activity창-전환-기능)
 3. [Spinner/스피너(콤보박스)](#3-spinner스피너콤보박스)
-4. [에러 android.content.res.Resources$NotFoundException](#4-에러-androidcontentresResources$NotFoundException)
+4. [에러 android.content.res.Resources$NotFoundException](#4-에러-androidcontentresresourcesnotfoundexception)
 5. [현재 시간 가져오기](#5-현재-시간-가져오기)
 6. [logcat/로그캣출력](#6-logcat로그캣출력)
-7. [database(SQLite)/데이터베이스(SQLite)](#7-database(SQLite)데이터베이스(SQLite))
-8. [TextView Scrollbar/텍스트뷰 스크롤바](#8-TextView-Scrollbar텍스트뷰-스크롤바)
-9. [Toast/토스트](#9-Toast토스트)
-10. [ListView/리스트뷰](#10-ListView리스트뷰)
+7. [database(SQLite)/데이터베이스(SQLite)](#7-databasesqlite데이터베이스sqlite)
+8. [TextView Scrollbar/텍스트뷰 스크롤바](#8-textview-scrollbar텍스트뷰-스크롤바)
+9. [Toast/토스트](#9-toast토스트)
+10. [ListView/리스트뷰](#10-listview리스트뷰)
 11. [icon change/앱 아이콘 변경하기](#11-icon-change앱-아이콘-변경하기)
-12. [화면방향 가로,세로 고정하기](#12-화면방향-가로,세로-고정하기)
+12. [화면방향 가로,세로 고정하기](#12-화면방향-가로세로-고정하기)
 
 ## 내용
 # 1. Annotation/어노테이션
