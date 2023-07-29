@@ -6,7 +6,7 @@ made for mom
 ## 목차
 
 1. [Annotation/어노테이션](#1-annotation어노테이션)
-2. [Activity/창 전환 기능](#2)
+2. [Activity/창 전환 기능](#2-Activity창 전환 기능)
 3. [Spinner/스피너(콤보박스)](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
 4. [에러 android.content.res.Resources$NotFoundException](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
 5. [현재 시간 가져오기](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
@@ -29,8 +29,7 @@ made for mom
         - `import androidx.annotation.Nullable;`
         - 이 뒤에 오는 변수는 null일 수 있다는 의미
         - null check를 하지 않으면 에러가 남
-# 2
-Activity/창 전환 기능
+# 2. Activity/창 전환 기능
     - 1번(Activity)에서 2번(Avtivity)로의 전환
         1. 2번 생성하기
             - (아래 사진 참고)
