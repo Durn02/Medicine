@@ -5,7 +5,7 @@ made for mom
 
 ## 목차
 
-1. [Annotation/어노테이션](#내용)
+1. [Annotation/어노테이션](#1.-Annotation/어노테이션)
 2. [Activity/창 전환 기능](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
 3. [Spinner/스피너(콤보박스)](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
 4. [에러 android.content.res.Resources$NotFoundException](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%202713fd65ac054a3d992a126cff59978b.md)
