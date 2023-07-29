@@ -371,5 +371,5 @@ a → assert
     - [https://popcorn16.tistory.com/76](https://popcorn16.tistory.com/76) (추천)
     - [https://taehoung0102.tistory.com/124](https://taehoung0102.tistory.com/124)
 3. 노션에 작성된 글 github에 옮기기
-	- [https://seongbindb.tistory.com/7]
-	- [https://swieeft.github.io/2020/03/02/NotionToGithubioPorting.html]
+    - [https://seongbindb.tistory.com/7](https://seongbindb.tistory.com/7)
+    - [https://swieeft.github.io/2020/03/02/NotionToGithubioPorting.html](https://swieeft.github.io/2020/03/02/NotionToGithubioPorting.html)
