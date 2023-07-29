@@ -7,7 +7,7 @@ made for mom
 
 1. [Annotation/어노테이션](#1-annotation어노테이션)
 2. [Activity/창 전환 기능](#2-Activity창-전환-기능)
-3. [Spinner/스피너(콤보박스)](# 3. Spinner/스피너(콤보박스))
+3. [Spinner/스피너(콤보박스)](#3-Spinner스피너(콤보박스))
 4. [에러 android.content.res.Resources$NotFoundException](#4-에러-androidcontentresResources$NotFoundException)
 5. [현재 시간 가져오기](#5-현재-시간-가져오기)
 6. [logcat/로그캣출력](#6-logcat로그캣출력)
