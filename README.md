@@ -363,4 +363,13 @@ a → assert
     <activity android:screenOrientation="landscape"> // 가로 모드
     ```
 
-[참고 링크](Medicine%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%2084cf7be3c2314988bbb6034a11558a26/%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A9%20%E1%84%85%E1%85%B5%E1%86%BC%E1%84%8F%E1%85%B3%20657ce84c172f47efb415d0adcd10d523.md)
+# 참고 링크
+
+1. 달력 만들고 일정 file로 저장하기
+    - [https://stickode.tistory.com/140](https://stickode.tistory.com/140)
+2. 데이터베이스/SQLite
+    - [https://popcorn16.tistory.com/76](https://popcorn16.tistory.com/76) (추천)
+    - [https://taehoung0102.tistory.com/124](https://taehoung0102.tistory.com/124)
+3. 노션에 작성된 글 github에 옮기기
+	- [https://seongbindb.tistory.com/7]
+	- [https://swieeft.github.io/2020/03/02/NotionToGithubioPorting.html]
